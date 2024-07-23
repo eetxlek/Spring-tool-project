@@ -1,0 +1,8 @@
+2020-01-12 21:46:23 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLException: Error de Sintaxis en sentencia SQL "SELECT * FROM EMPLEADO EMPLEADO EMPLEADO[*]"
+Syntax error in SQL statement "SELECT * FROM EMPLEADO EMPLEADO EMPLEADO[*]"; SQL statement:
+SELECT * FROM EMPLEADO EMPLEADO EMPLEADO [42000-197]
+2020-01-12 21:46:24 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLException: Error de Sintaxis en sentencia SQL "SELECT * FROM EMPLEADO EMPLEADO EMPLEADO[*]"
+Syntax error in SQL statement "SELECT * FROM EMPLEADO EMPLEADO EMPLEADO[*]"; SQL statement:
+SELECT * FROM EMPLEADO EMPLEADO EMPLEADO [42000-197]
